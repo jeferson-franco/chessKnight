@@ -1,0 +1,20 @@
+{
+  "name": "chessknight",
+  "version": "1.0.0",
+  "description": "Given a position of a knight on the standard chessboard, find the number of different moves the knight can perform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/chessKnight.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/chessKnight/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/chessKnight#readme"
+}
